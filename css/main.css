@@ -171,6 +171,11 @@ h1 {
 .card:hover .img-container {
   transform: scale(1.15);
 }
+
+
+.card:hover .img-container2 {
+  transform: scale(1.15);
+}
 /* Suyog */
 .popup {
   position: fixed;
